@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Qfinder-Front</string>
+    <string name="registrar_title">Registrar notas</string>
+    <string name="nota1">Nota 1</string>
+    <string name="nota2">Nota 2</string>
+    <string name="nota3">Nota 3</string>
+    <string name="nota4">Nota 4</string>
 </resources>
