@@ -13,18 +13,13 @@
         android:theme="@style/Theme.QfinderFront"
         tools:targetApi="31">
         <activity
-<<<<<<< HEAD
             android:name=".RegistroCuidadorActivity"
-=======
-            android:name=".Terminos"
->>>>>>> origin/main
             android:exported="false" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
