@@ -3,4 +3,9 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="azul_claro">#2196F3</color>
-</resources>
+    <color name="blue">#4B9AF6</color>
+    <color name="gray">#B0B0B0</color>
+    <color name="blue_translucent">#66FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    </resources>
+
