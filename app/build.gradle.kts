@@ -12,7 +12,6 @@ android {
         targetSdk = 35
         versionCode = 1
         versionName = "1.0"
-
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
@@ -29,14 +28,25 @@ android {
         sourceCompatibility = JavaVersion.VERSION_11
         targetCompatibility = JavaVersion.VERSION_11
     }
+    buildFeatures {
+        viewBinding = true // Habilita ViewBinding
+    }
 }
 
 dependencies {
-
-    implementation(libs.appcompat)
+    // Material Design (versión más reciente)
     implementation(libs.material)
+
+    // AndroidX Core
+    implementation(libs.appcompat)
     implementation(libs.activity)
     implementation(libs.constraintlayout)
+
+    // Componentes adicionales recomendados
+    implementation("androidx.core:core-ktx:1.12.0") // Para Kotlin extensions
+    implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2") // ViewModel
+
+    // Testing
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
