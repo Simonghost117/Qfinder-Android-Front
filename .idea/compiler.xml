@@ -3,6 +3,7 @@
   <component name="CompilerConfiguration">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <bytecodeTargetLevel target="21" />
 =======
     <bytecodeTargetLevel target="17" />
@@ -10,5 +11,8 @@
 =======
     <bytecodeTargetLevel target="21" />
 >>>>>>> origin/Alison
+=======
+    <bytecodeTargetLevel target="21" />
+>>>>>>> origin/hanz
   </component>
 </project>

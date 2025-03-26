@@ -17,5 +17,35 @@
     <string name="nacimiento">Fecha de nacimiento</string>
     <string name="btnVolver">Volver </string>
     <string name="btnCont">Continuar </string>
+    <string name="AceptarTerminos">ACEPTAR TERMINOS Y CONDICIONES</string>
+    <string name="Terminos">
+        TÉRMINOS Y CONDICIONES DE USO
+
+1. ACEPTACIÓN
+El uso de la aplicación del hospital implica la aceptación de estos términos y condiciones.
+
+2. OBJETIVO
+La aplicación facilita la gestión de citas, acceso a información médica y otros servicios hospitalarios.
+
+3. REGISTRO Y USO
+El usuario debe registrarse con datos veraces y es responsable de la seguridad de sus credenciales.
+
+4. PRIVACIDAD
+Los datos personales serán protegidos conforme a la ley y no se compartirán sin autorización.
+
+5. RESPONSABILIDAD
+El usuario debe hacer un uso adecuado de la aplicación y reportar accesos no autorizados.
+
+6. LIMITACIONES
+El hospital no garantiza disponibilidad continua ni asume responsabilidad por fallos técnicos.
+
+7. MODIFICACIONES
+Los términos pueden cambiar y los usuarios serán notificados por los medios disponibles.
+
+8. JURISDICCIÓN
+Se aplicará la legislación vigente en la jurisdicción del hospital.
+
+9. CONTACTO
+Para consultas, comunicarse con el hospital a través de sus canales oficiales.</string>
 </resources>
 
